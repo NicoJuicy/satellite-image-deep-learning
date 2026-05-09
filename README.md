@@ -435,6 +435,9 @@ Note that deforestation detection may be treated as a segmentation task or a cha
 
 - [ai4good25-wildfire](https://github.com/VSainteuf/ai4good25-wildfire) -> AI4GOOD Class Fall 2025 : Wildfire spread prediction project
 
+- [wildfire-lora-gfm](https://github.com/alishibli97/wildfire-lora-gfm) -> adapting large Earth-Observation foundation models
+(Prithvi-v2, TerraMind, DINOv3) using LoRA, to detect wildfire burned areas from bi-temporal (pre-fire / post-fire) Sentinel-2 imagery.
+
 ### Segmentation - Landslides
 
 - [landslide-sar-unet](https://github.com/iprapas/landslide-sar-unet) -> Deep Learning for Rapid Landslide Detection using Synthetic Aperture Radar (SAR) Datacubes
@@ -3292,6 +3295,8 @@ Weakly & semi-supervised learning are two methods of machine learning that use b
 - [SAHARA](https://github.com/giu-guarino/SAHARA) -> Heterogeneous Semi-Supervised Transfer Learning with Adversarial Adaptation and Dynamic Pseudo-Labeling
 
 - [VCNet](https://github.com/Tusaifei/VCNet) -> a weakly supervised end-to-end deep-learning network for large-scale HR land-cover mapping. Introduces the 0.5 m/pixel Tokyo Dataset.
+
+- [School Detection](https://github.com/zakarya-elmimouni/School_Detection) -> Label-Efficient School Detection from Aerial Imagery via Weakly Supervised Pretraining and Fine-Tuning.
 
 #
 ## Active learning
